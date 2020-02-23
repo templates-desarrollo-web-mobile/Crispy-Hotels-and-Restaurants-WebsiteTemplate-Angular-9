@@ -9,7 +9,7 @@ Saludos, a continuación les comparto un template que acabo de adaptar
 
  - **Versión:** Angular 9
  - **Template original:** https://w3layouts.com/crispy-restaurant-category-flat-bootstrap-responsive-website-template/
- - **Preview:** https://market-corporate-business-website-template-angular-9-5m9uqwp8d.now.sh/
+ - **Preview:** https://crispy-template-angular-9.now.sh/
 
  
 # Creditos
