@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "crispy": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "crispy"
+    }
+  },
+  "defaultProject": "crispy",
+  "cli": {
+    "analytics": "8288b138-ed0f-4bc6-8ffe-58d5fd71ee40"
+  }
 }
